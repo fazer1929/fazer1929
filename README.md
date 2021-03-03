@@ -63,16 +63,16 @@
 
 <p align="center">
   
-<a href="https://abhishekagrawal.netlify.app/">
+<a href="https://abhishekagrawal.netlify.app/" target="_blank">
   <img align="left" alt="Abhishek's Website" width="30px" src="https://img.icons8.com/pastel-glyph/64/000000/web-design--v2.png" />
 </a>
- <a href="https://twitter.com/fazer1929">
+ <a href="https://twitter.com/fazer1929" target="_blank">
   <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhishekagrawal1929/">
+<a href="https://www.linkedin.com/in/abhishekagrawal1929/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/fazer1929">
+<a href="https://github.com/fazer1929" target="_blank">
   <img align="left" alt="Abhishek's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </p>
