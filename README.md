@@ -15,13 +15,13 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 </tr>
@@ -33,16 +33,16 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
 </td>
- <td align="center" width="50%">
+ <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 </td>
 </tr>
@@ -52,8 +52,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazer1929&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazer1929&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazer1929&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazer1929&theme=radical&layout=compact" />
 </a>
 
 <br/>
@@ -64,7 +64,7 @@
 <p align="center">
   
 <a href="https://abhishekagrawal.netlify.app/">
-  <img align="left" alt="Abhishek's Website" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons" />
+  <img align="left" alt="Abhishek's Website" width="30px" src="https://img.icons8.com/pastel-glyph/64/000000/web-design--v2.png" />
 </a>
  <a href="https://twitter.com/fazer1929">
   <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
