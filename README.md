@@ -1,16 +1,78 @@
-### Hi there 👋
+<h2> Hello you 👋, I'm Abhishek</h2>
+<img alt="GIF" src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif" width = 200/>
 
-<!--
-**fazer1929/fazer1929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🧝🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 😁 &nbsp; A computer science undergrad exploring new technologies.
+- 😎 &nbsp; Co-Founder and Tech Lead at DEVELOPER STUDENT COMMUNITY, BIT DURG.
+- 🌱 &nbsp; Microsoft Learn Student Ambassador and Google Cloud Facilitator.
+- ✍️ &nbsp; Trying Blog Writing on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- **Programming Languages**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+
+- **Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+</td>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
+</td>
+ <td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazer1929&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazer1929&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3> 🤝🏻 &nbsp;Contact Me </h3>
+
+<p align="center">
+  
+<a href="https://abhishekagrawal.netlify.app/">
+  <img align="left" alt="Abhishek's Website" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons" />
+</a>
+ <a href="https://twitter.com/fazer1929">
+  <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhishekagrawal1929/">
+  <img align="left" alt="Abhishek's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/fazer1929">
+  <img align="left" alt="Abhishek's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</p>
