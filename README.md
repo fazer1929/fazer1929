@@ -5,7 +5,7 @@
 
 - 😁 &nbsp; A computer science undergrad exploring new technologies.
 - 😎 &nbsp; Co-Founder and Tech Lead at DEVELOPER STUDENT COMMUNITY, BIT DURG.
-- 🌱 &nbsp; Microsoft Learn Student Ambassador and Google Cloud Facilitator.
+- 🌱 &nbsp; Microsoft Learn Student Ambassador and Azure Developer Community Organizer(Bilaspur Region).
 - ✍️ &nbsp; Trying Blog Writing on the side.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
