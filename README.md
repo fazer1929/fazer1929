@@ -7,7 +7,7 @@
 - 😎 &nbsp; Co-Founder and Tech Lead at DEVELOPER STUDENT COMMUNITY, BIT DURG.
 - 🌱 &nbsp; Microsoft Learn Student Ambassador and Azure Developer Community Organizer(Bilaspur Region).
 - ✍️ &nbsp; Trying Blog Writing on the side.
-- - 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [abhishekagrwal.netlify.app](abhishekagrwal.netlify.app)
 
