@@ -7,6 +7,19 @@
 - 😎 &nbsp; Co-Founder and Tech Lead at DEVELOPER STUDENT COMMUNITY, BIT DURG.
 - 🌱 &nbsp; Microsoft Learn Student Ambassador and Azure Developer Community Organizer(Bilaspur Region).
 - ✍️ &nbsp; Trying Blog Writing on the side.
+- - 🌱 I’m currently learning **Docker, Kubernetes**
+
+- 👨‍💻 All of my projects are available at [abhishekagrwal.netlify.app](abhishekagrwal.netlify.app)
+
+- 📝 I regularly write articles on [https://fazer1929.github.io/dev-blog/](https://fazer1929.github.io/dev-blog/)
+
+- 💬 Ask me about **React, Django**
+
+- 📫 How to reach me **abhishekagrawal8888@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/160fpyx-Tv6oFdT_2Gi5eXOUCpzQTcbLj/view?usp=sharing](https://drive.google.com/file/d/160fpyx-Tv6oFdT_2Gi5eXOUCpzQTcbLj/view?usp=sharing)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -57,20 +70,12 @@
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-<p align="center">
-  
-<a href="https://abhishekagrawal.netlify.app/" target="_blank">
-  <img align="left" alt="Abhishek's Website" width="30px" src="https://img.icons8.com/pastel-glyph/64/000000/web-design--v2.png" />
-</a>
- <a href="https://twitter.com/fazer1929" target="_blank">
-  <img align="left" alt="Abhishek's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhishekagrawal1929/" target="_blank">
-  <img align="left" alt="Abhishek's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/fazer1929" target="_blank">
-  <img align="left" alt="Abhishek's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/fazer1929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fazer1929" height="30" width="40" /></a>
+<a href="https://twitter.com/fazer1929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazer1929" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishekagrawal1929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekagrawal1929" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fazer1929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fazer1929" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fazer1929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fazer1929" height="30" width="40" /></a>
 </p>
